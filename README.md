@@ -22,4 +22,4 @@
 - Untuk melakukan running, bosa melakukan dengan sintak di terminal(powerhsell/git base) seperti ini:
   - $ tsc
   - atau
-  - $tsc && node bundle/index.js
+  - $ tsc && node bundle/index.js
